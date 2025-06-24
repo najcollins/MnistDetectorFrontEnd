@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mnistdetector", "MnistDetector\mnistdetector.esproj", "{3E4E42F4-1535-CB10-673F-908E4BE0620D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4E42F4-1535-CB10-673F-908E4BE0620D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4E42F4-1535-CB10-673F-908E4BE0620D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4E42F4-1535-CB10-673F-908E4BE0620D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3E4E42F4-1535-CB10-673F-908E4BE0620D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4E42F4-1535-CB10-673F-908E4BE0620D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4E42F4-1535-CB10-673F-908E4BE0620D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C706EA-0A5D-4DC1-BDA9-7A48CFFB3193}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+.grid-container {
+    display: inline-block;
+    user-select: none;
+    border: 1px solid #ddd; 
+    background-color: white;
+}
+
+.grid-row {
+    display: flex;
+}
+
+.grid-cell {
+    width: 15px;
+    height: 15px;
+    border: 0px solid #ccc;
+    box-sizing: border-box;
+    transition: background-color 50ms ease-out;
+    -webkit-tap-highlight-color: transparent;
+}
+
